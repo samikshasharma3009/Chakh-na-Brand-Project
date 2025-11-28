@@ -44,18 +44,18 @@ Sales volume, CAC, CLV, engagement metrics.
 Sentiment analysis through reviews & social listening.
 Continuous improvement & scalability plan with new product lines and subscription models.
 
-Contents Included in This Repository
-Full project report (DOCX/PDF)
-Market research insights
-Branding elements & design references
-IMC plan + timelines
-Budget sheet
-KPI framework
-Conclusion & recommendations
+Contents Included in This Repository -
+1.Full project report (DOCX/PDF)
+2.Market research insights
+3.Branding elements & design references
+4.IMC plan + timelines
+5.Budget sheet
+6.KPI framework
+7.Conclusion & recommendations
 
 Purpose of This Project
-This Marketing innovation project demonstrates the ability to:
-Design a new FMCG brand from zero
-Build a structured marketing strategy
-Apply branding, consumer behavior, IMC & digital marketing concepts
-Create real-world, execution-ready campaign plans
+-This Marketing innovation project demonstrates the ability to:
+-Design a new FMCG brand from zero
+-Build a structured marketing strategy
+-Apply branding, consumer behavior, IMC & digital marketing concepts
+-Create real-world, execution-ready campaign plans
